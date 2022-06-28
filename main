@@ -1,0 +1,52 @@
+<!doctype html>
+	<html>
+	<head>
+		<title> CSS Layout </title>
+		<link rel="stylesheet" href="main.css">
+	</head>
+	<body>
+
+		
+		<div class="margin"></div>
+		<section class="parallax"> 
+			<div class="parallax-inner"></div>
+		</section>
+		<header>  
+			<nav> 
+				<h1>  GAMERHUB </h1>
+				<ul>
+				<li> <a href="Home.html">Home</a></li>
+				<li> <a href="index.html">News</a></li>
+				<li> <a href="About.html">About</a></li>
+				<li> <a href="#">Contact</a></li>
+				<li> <a href="#">Links</a></li>
+				</ul>
+			</nav>
+
+		</header>
+
+
+		<center> 
+			
+            <img src="https://pngimg.com/uploads/welcome/welcome_PNG32.png">
+		</center>
+            <br> <br> 
+            <right>
+            <div class="col">
+            <p> 
+               <b> Officially passing the halfway mark of the DPC 2021-22 Season Tour 3, there are some teams we are keeping an eye on. </b> <br>
+                <br>
+                With the halfway point already passed, the DPC 2021-22 Season Tour 3 is heading into the final leg of the league play. 
+
+                 <br> That means some teams have just a precious few games to pick up the slack and stage a comeback. Others will need to hold on <br> 
+                 to top spots to see their Major dreams come to fruition and perhaps an invite to The International 2022. 
+            </p>
+        </div>
+		</right>
+		
+
+		<footer> © 2022 Rhonieljoyd Navales </footer>
+
+	</body>
+
+	</html>
